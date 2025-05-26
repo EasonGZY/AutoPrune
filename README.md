@@ -69,7 +69,4 @@ python main.py \
 ## Acknowledgement
 
 This framework integrates and extends concepts from repositories for [Wanda](https://github.com/locuslab/wanda) and [SparseGPT](https://github.com/IST-DASLab/sparsegpt).
-=======
-# AutoPrune
-AutoPrune is a versatile pruning framework designed to support and implement various state-of-the-art pruning techniques for Large Language Models (LLMs). This framework allows for easy application and benchmarking of methods including:  * Magnitude Pruning * SparseGPT * Wanda * LLM-Barber
->>>>>>> 3917239e4a7f18f64a46c1c5f7ca5d5c8d218d65
+
